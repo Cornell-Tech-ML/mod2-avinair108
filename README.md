@@ -56,5 +56,24 @@ Time per epoch: 0.326s.
 <img width="392" alt="diag_log_tensor" src="https://github.com/user-attachments/assets/a174adc0-f5d6-482f-b61e-ca12f7e7c7e8">
 
 
+Split:
+
+![splittensor](https://github.com/user-attachments/assets/808f52ef-dbe5-4826-8ffe-abdd667055f3)
+
+
+Dataset: Split
+
+Learning Rate: 0.1
+
+Epochs: 500
+
+Hidden: 10
+
+Time per epoch: 0.735s.
+
+<img width="417" alt="splittensor" src="https://github.com/user-attachments/assets/1de6266d-ea41-4d1e-8da4-d5fcb4b4239a">
+
+
+
 
 
