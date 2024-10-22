@@ -22,9 +22,31 @@ The files that will be synced are:
 
 Simple:
 
-![image](https://github.com/user-attachments/assets/13d43830-f406-48ad-89cd-eebbbeb4f71d)
+![simpleTensor](https://github.com/user-attachments/assets/1f9f7d3e-4225-4b85-8fed-1b2466977197)
+
+
 Dataset: Simple
 Learning Rate: 0.1 
 Epochs: 500
 Hidden: 5
 Time per epoch: 0.258s. 
+
+<img width="400" alt="simplelogtensor" src="https://github.com/user-attachments/assets/7db62276-8136-4272-9be8-668f3a35c8f2">
+
+
+Diag:
+
+![diagtensor](https://github.com/user-attachments/assets/d0787673-4efb-4648-ba44-897a21aaf889)
+
+
+Dataset: Diag
+Learning Rate: 0.5
+Epochs: 500
+Hidden: 6
+Time per epoch: 0.326s.
+
+<img width="392" alt="diag_log_tensor" src="https://github.com/user-attachments/assets/a174adc0-f5d6-482f-b61e-ca12f7e7c7e8">
+
+
+
+
