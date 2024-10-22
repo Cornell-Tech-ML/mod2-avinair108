@@ -74,6 +74,21 @@ Time per epoch: 0.735s.
 <img width="417" alt="splittensor" src="https://github.com/user-attachments/assets/1de6266d-ea41-4d1e-8da4-d5fcb4b4239a">
 
 
+XOR:
+![xortensor](https://github.com/user-attachments/assets/5627da26-f409-4bc1-aa24-22aee91c7078)
+
+Dataset: XOR
+
+Learning Rate: 0.1
+
+Epochs: 500
+
+Hidden: 12
+
+Time per epoch: 0.961s.
+
+<img width="419" alt="Screenshot 2024-10-22 at 6 21 41 PM" src="https://github.com/user-attachments/assets/dff996a3-5db3-4e38-9d68-74bd327d0922">
+
 
 
 
