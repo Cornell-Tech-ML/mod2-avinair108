@@ -21,7 +21,6 @@ The files that will be synced are:
 *Results
 
 Simple:
-
 ![simpleTensor](https://github.com/user-attachments/assets/1f9f7d3e-4225-4b85-8fed-1b2466977197)
 
 
@@ -39,7 +38,6 @@ Time per epoch: 0.258s.
 
 
 Diag:
-
 ![diagtensor](https://github.com/user-attachments/assets/d0787673-4efb-4648-ba44-897a21aaf889)
 
 
@@ -57,7 +55,6 @@ Time per epoch: 0.326s.
 
 
 Split:
-
 ![splittensor](https://github.com/user-attachments/assets/808f52ef-dbe5-4826-8ffe-abdd667055f3)
 
 
