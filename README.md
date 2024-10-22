@@ -26,9 +26,13 @@ Simple:
 
 
 Dataset: Simple
+
 Learning Rate: 0.1 
+
 Epochs: 500
+
 Hidden: 5
+
 Time per epoch: 0.258s. 
 
 <img width="400" alt="simplelogtensor" src="https://github.com/user-attachments/assets/7db62276-8136-4272-9be8-668f3a35c8f2">
@@ -40,9 +44,13 @@ Diag:
 
 
 Dataset: Diag
+
 Learning Rate: 0.5
+
 Epochs: 500
+
 Hidden: 6
+
 Time per epoch: 0.326s.
 
 <img width="392" alt="diag_log_tensor" src="https://github.com/user-attachments/assets/a174adc0-f5d6-482f-b61e-ca12f7e7c7e8">
