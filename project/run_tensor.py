@@ -34,7 +34,7 @@ class Linear(minitorch.Module):
         self.weights = RParam(in_size, out_size)
         self.bias = RParam(out_size)
         self.out_size = out_size
-        
+
 
     def forward(self, x):
         batch, in_size = x.shape
